@@ -125,38 +125,3 @@ a, span {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
-
-/* 18. responsive */
-@media screen and (max-width: 750px) {
-    h1 {
-        font-size: 40px;
-    }
-
-    .social a {
-        font-size: 20px;
-        margin-left: 10px; 
-    }
-
-    a {
-        height: 90px;
-        width: 90px; 
-        font-size: 75px;
-    }
-
-    #board {
-    
-        height: 280px;
-        width: 285px;
-    }
-
-    span {
-        font-size: 22px;
-    }
-
-    #eks, #oks {
-        font-size: 22px;
-        padding: 0 7px;
-    }
-
-
-}
