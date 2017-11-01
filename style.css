@@ -16,7 +16,24 @@ p {
     text-align: center;
     color: #242424;
     margin-top: 0;
-    margin-bottom: 30px;
+}
+
+.social {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#cn, #cf {
+    border:none;
+}
+
+.social a {
+    font-size: 20px;
+    margin-left: 10px; 
+}
+
+.fa:hover {
+    color: #242424;
 }
 
 .container {
